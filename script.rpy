@@ -55,7 +55,7 @@ default textContent = "Sound is Off"
 
 #variables to track morality
 default marshal = 2
-default outlaw = 3
+default outlaw = 4
 
 #variables to track interest of player - tracked for macro game purposes
 default reluctance = 0
